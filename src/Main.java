@@ -19,7 +19,7 @@ public class Main {
             for (int i = strlen2; i <= strlen-1; i++) {
                 System.out.println(str.charAt(i));
             }
-
+            System.out.println("Вроде так )))");
 
         }
     }
